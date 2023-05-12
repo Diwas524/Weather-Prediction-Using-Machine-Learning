@@ -15,3 +15,6 @@ Overall, this research has the potential to make a significant contribution to t
 Here, we will use a typical model from the number of models built above to test the results. We will choose a model built with Decision Tree with variable `month` that stores month information extracted from `date` variable, with parameter max_depth = 4. This model has an accuracy of 0.8387.
 
 
+![model_output](https://github.com/Diwas524/Weather-Prediction-Using-Machine-Learning/blob/main/output.png)
+
+# Visit [AI Hub Projects)(https://aihubprojects.com) 
